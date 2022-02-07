@@ -1,0 +1,3 @@
+## Techs
+* **RecyclerView**
+* **SQLite**
