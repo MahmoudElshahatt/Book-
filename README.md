@@ -1,3 +1,5 @@
-## Techs
+## Tech stack
 * **RecyclerView**
 * **SQLite**
+* **Animation**
+
